@@ -10,7 +10,7 @@ The Use Case Diagram represents the interaction between the three actors (**Gues
 - **Admin** – supervises all system activities (users, bookings, listings, and payments).
 
 
-## 🔗 Relationships Explanation
+## Relationships Explanation
 
 - **`<<include>>`** means one use case *always requires* another.  
   Example:  
