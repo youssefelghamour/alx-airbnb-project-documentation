@@ -4,7 +4,7 @@ This directory contains the **Data Flow Diagram (DFD)** for the Airbnb Clone pro
 
 The DFD illustrates how data moves through the system between users, processes, and data stores. It focuses on the core backend operations such as authentication, property management, booking, payments, and reviews.
 
-![data_flow_diagram](./data-flow-diagram.png)
+![data_flow_diagram](./data-flow.png)
 
 ## Diagram Overview
 
